@@ -1,6 +1,5 @@
 package com.example.boot07.cafe.service;
 
-
 import java.net.URLEncoder;
 import java.util.List;
 
@@ -15,7 +14,6 @@ import com.example.boot07.cafe.dao.CafeDao;
 import com.example.boot07.cafe.dto.CafeCommentDto;
 import com.example.boot07.cafe.dto.CafeDto;
 import com.example.boot07.exception.NotDeleteException;
-
 
 @Service
 public class CafeServiceImpl implements CafeService{

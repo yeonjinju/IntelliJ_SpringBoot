@@ -8,8 +8,6 @@ import org.springframework.stereotype.Repository;
 
 import com.example.boot07.cafe.dto.CafeCommentDto;
 
-
-
 @Repository
 public class CafeCommentDaoImpl implements CafeCommentDao{
 

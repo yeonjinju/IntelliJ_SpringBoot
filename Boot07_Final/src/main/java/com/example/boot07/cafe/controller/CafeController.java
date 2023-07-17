@@ -18,10 +18,9 @@ import com.example.boot07.cafe.dto.CafeCommentDto;
 import com.example.boot07.cafe.dto.CafeDto;
 import com.example.boot07.cafe.service.CafeService;
 
-
-
 @Controller
 public class CafeController {
+
     @Autowired
     private CafeService service;
 

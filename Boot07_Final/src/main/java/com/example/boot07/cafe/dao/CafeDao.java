@@ -1,10 +1,7 @@
 package com.example.boot07.cafe.dao;
 
 import java.util.List;
-
 import com.example.boot07.cafe.dto.CafeDto;
-
-
 
 public interface CafeDao {
     //글목록
