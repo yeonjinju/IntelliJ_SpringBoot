@@ -5,7 +5,7 @@
 	<insert id="insert" parameterType="usersDto">
 		INSERT INTO users
 			(id, pwd, email, regdate)
-		VALUES(#{id}, #{pwd}, #{email}, SYSDATE)
+		VALUES(#{id}, #{pwd}, #{email}, NOW())
 	</insert>
 	<select id="getData" parameterType="string"
 			resultType="usersDto">

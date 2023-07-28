@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Boot01_Hello/src/main/java"/>
+	<classpathentry kind="src" path="Boot01_Hello/src/test/java"/>
+	<classpathentry kind="src" path="Boot01_Hello2/src/main/java"/>
+	<classpathentry kind="src" path="Boot01_Hello2/src/test/java"/>
+	<classpathentry kind="src" path="Boot02_AOP/src/main/java"/>
+	<classpathentry kind="src" path="Boot02_AOP/src/test/java"/>
+	<classpathentry kind="src" path="Boot03_Controller/src/main/java"/>
+	<classpathentry kind="src" path="Boot03_Controller/src/test/java"/>
+	<classpathentry kind="src" path="Boot04_Jsp/src/main/java"/>
+	<classpathentry kind="src" path="Boot04_Jsp/src/test/java"/>
+	<classpathentry kind="src" path="Boot05_MyBatis/src/main/java"/>
+	<classpathentry kind="src" path="Boot05_MyBatis/src/test/java"/>
+	<classpathentry kind="src" path="Boot06_WebConfig/src/main/java"/>
+	<classpathentry kind="src" path="Boot06_WebConfig/src/test/java"/>
+	<classpathentry kind="src" path="Boot07_Final/src/main/java"/>
+	<classpathentry kind="src" path="Boot07_Final/src/test/java"/>
+	<classpathentry kind="src" path="JavaProject/JavaProject/src/main/java"/>
+	<classpathentry kind="src" path="JavaProject/JavaProject1/src"/>
+	<classpathentry kind="src" path="Spring04_Final/src/main/java"/>
+	<classpathentry kind="lib" path="Boot01_Hello/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="Boot01_Hello2/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="Boot02_AOP/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="Boot03_Controller/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="Boot04_Jsp/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="Boot05_MyBatis/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="Boot06_WebConfig/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="Boot07_Final/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="output" path="Boot01_Hello/target/classes"/>
+</classpath>

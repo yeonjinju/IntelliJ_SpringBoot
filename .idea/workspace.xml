@@ -1,26 +1,317 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95d995bd-a11c-4101-90f1-ddffa8de0807" name="변경" comment="" />
+    <list default="true" id="95d995bd-a11c-4101-90f1-ddffa8de0807" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boot07_Final/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Boot07_Final/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/.idea/JavaProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/JavaProject/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/JavaProject/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/JavaProject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/JavaProject/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/JavaProject/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/JavaProject1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/JavaProject1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/JavaProject1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/JavaProject1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/JavaProject1/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/JavaProject1/JavaProject1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProject/JavaProject1/src/test/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/.settings/.jsdtscope" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/.settings/org.eclipse.wst.common.component" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/.settings/org.eclipse.wst.jsdt.ui.superType.container" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/.settings/org.eclipse.wst.jsdt.ui.superType.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/.settings/org.eclipse.wst.validation.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/java/com/gura/spring04/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/java/com/gura/spring04/cafe/controller/CafeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/java/com/gura/spring04/cafe/dao/CafeCommentDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/java/com/gura/spring04/cafe/dao/CafeCommentDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/java/com/gura/spring04/cafe/dao/CafeDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/java/com/gura/spring04/cafe/dao/CafeDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/java/com/gura/spring04/cafe/dto/CafeCommentDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/java/com/gura/spring04/cafe/dto/CafeDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/java/com/gura/spring04/cafe/service/CafeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/java/com/gura/spring04/cafe/service/CafeServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/java/com/gura/spring04/exception/ExceptionController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/java/com/gura/spring04/exception/NotDeleteException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/java/com/gura/spring04/file/controller/FileController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/java/com/gura/spring04/file/dao/FileDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/java/com/gura/spring04/file/dao/FileDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/java/com/gura/spring04/file/dto/FileDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/java/com/gura/spring04/file/service/FileService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/java/com/gura/spring04/file/service/FileServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/java/com/gura/spring04/file/view/FileDownView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/java/com/gura/spring04/gallery/controller/GalleryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/java/com/gura/spring04/gallery/dao/GalleryDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/java/com/gura/spring04/gallery/dao/GalleryDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/java/com/gura/spring04/gallery/dto/GalleryDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/java/com/gura/spring04/gallery/service/GalleryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/java/com/gura/spring04/gallery/service/GalleryServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/java/com/gura/spring04/interceptor/LoginInterceptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/java/com/gura/spring04/users/controller/UsersController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/java/com/gura/spring04/users/dao/UsersDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/java/com/gura/spring04/users/dao/UsersDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/java/com/gura/spring04/users/dto/UsersDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/java/com/gura/spring04/users/service/UsersService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/java/com/gura/spring04/users/service/UsersServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/resources/Configuration.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/resources/log4j.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/resources/mapper/CafeCommentMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/resources/mapper/CafeMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/resources/mapper/FileMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/resources/mapper/GalleryMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/resources/mapper/UsersMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/WEB-INF/spring/root-context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/WEB-INF/table.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/WEB-INF/views/cafe/ajax_comment_list.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/WEB-INF/views/cafe/detail.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/WEB-INF/views/cafe/insert.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/WEB-INF/views/cafe/insertform.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/WEB-INF/views/cafe/list.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/WEB-INF/views/cafe/update.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/WEB-INF/views/cafe/updateform.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/WEB-INF/views/error/info.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/WEB-INF/views/file/list.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/WEB-INF/views/file/upload.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/WEB-INF/views/file/upload_form.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/WEB-INF/views/gallery/detail.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/WEB-INF/views/gallery/list.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/WEB-INF/views/gallery/upload.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/WEB-INF/views/gallery/upload_form.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/WEB-INF/views/gallery/upload_form2.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/WEB-INF/views/gallery/upload_form3.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/WEB-INF/views/home.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/WEB-INF/views/users/delete.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/WEB-INF/views/users/info.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/WEB-INF/views/users/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/WEB-INF/views/users/loginform.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/WEB-INF/views/users/logout.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/WEB-INF/views/users/pwd_update.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/WEB-INF/views/users/pwd_updateform.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/WEB-INF/views/users/signup.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/WEB-INF/views/users/signup_form.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/WEB-INF/views/users/updateform.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/SmartEditor2Skin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/css/smart_editor2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/css/smart_editor2_in.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/css/smart_editor2_items.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/css/smart_editor2_out.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/img/bg_b1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/img/bg_button.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/img/bg_button_left.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/img/bg_button_right.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/img/bg_find_h3.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/img/bg_help.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/img/bg_icon_tool.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/img/bg_line1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/img/bg_quote2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/img/bg_set.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/img/bg_text_tool.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/img/bg_tool2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/img/editor_guideline_698.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/img/editor_guideline_890.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/img/ico_extend.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/img/icon_set.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/img/ko_KR/btn_set.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/img/ko_KR/bx_set_110302.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/img/ko_KR/text_tool_set.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/img/photoQuickPopup/bg_drag_image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/img/photoQuickPopup/btn_cancel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/img/photoQuickPopup/btn_confirm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/img/photoQuickPopup/btn_confirm2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/img/photoQuickPopup/btn_del.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/img/photoQuickPopup/btn_find.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/img/text_tool_set2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/js/HuskyEZCreator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/js/SE2B_Configuration_General.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/js/SE2B_Configuration_Service.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/js/SE2BasicCreator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/js/jindo.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/js/jindo_component.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/js/smarteditor2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/js/smarteditor2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/photo_uploader/plugin/hp_SE2M_AttachQuickPhoto.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/photo_uploader/popup/attach_photo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/photo_uploader/popup/callback.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/photo_uploader/popup/file_uploader.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/photo_uploader/popup/file_uploader_html5.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/photo_uploader/popup/jindo.fileuploader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/photo_uploader/popup/jindo.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/photo_uploader/popup/photo_uploader.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/release_notes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/smart_editor2_inputarea.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/smart_editor2_inputarea_ie8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/SmartEditor/src_include.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/main/webapp/resources/js/gura_util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/src/test/resources/log4j.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/Configuration.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/Boot01_Hello2/Boot01Hello2Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/Boot01_Hello2/Boot01Hello2ApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/Boot01_Hello2/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/Boot01_Hello2/JavaConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/Boot01_Hello2/pc/Computer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/Boot01_Hello2/pc/Cpu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/Boot01_Hello2/util/Remocon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/Boot01_Hello2/util/RemoconImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/Boot01_Hello2/util/TvRemocon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/aop/Boot02AopApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/aop/Boot02AopApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/aop/JavaConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/aop/aspect/MemberAspect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/aop/aspect/MessengerAspect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/aop/aspect/WritingAspect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/aop/util/MemberDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/aop/util/MemberService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/aop/util/Messenger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/aop/util/WritingUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot03/Step03ControllerApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot03/Step03ControllerApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot03/controller/HelloController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot03/controller/HelloController2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot03/controller/MemberController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot04/Boot04JspApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot04/Boot04JspApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot04/HomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot05/Boot05MyBatisApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot05/Boot05MyBatisApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot05/HomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot05/member/controller/MemberController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot05/member/dao/MemberDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot05/member/dto/MemberDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot06/Boot06WebConfigApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot06/Boot06WebConfigApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot06/CafeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot06/FileController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot06/FileDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot06/HomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot06/ImageController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot06/MemberController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot06/MemberDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot06/UsersController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot06/config/WebConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot06/interceptor/LoginInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot07/Boot07FinalApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot07/Boot07FinalApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot07/HomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot07/android/AndroidController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot07/cafe/controller/CafeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot07/cafe/dao/CafeCommentDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot07/cafe/dao/CafeCommentDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot07/cafe/dao/CafeDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot07/cafe/dao/CafeDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot07/cafe/dto/CafeCommentDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot07/cafe/dto/CafeDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot07/cafe/service/CafeService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot07/cafe/service/CafeServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot07/config/WebConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot07/exception/ExceptionController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot07/exception/NotDeleteException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot07/file/controller/FileController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot07/file/dao/FileDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot07/file/dao/FileDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot07/file/dto/FileDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot07/file/service/FileService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot07/file/service/FileServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot07/gallery/controller/GalleryController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot07/gallery/dao/GalleryDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot07/gallery/dao/GalleryDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot07/gallery/dto/GalleryDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot07/gallery/service/GalleryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot07/gallery/service/GalleryServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot07/interceptor/LoginInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot07/users/controller/UsersController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot07/users/dao/UsersDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot07/users/dao/UsersDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot07/users/dto/UsersDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot07/users/service/UsersService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/boot07/users/service/UsersServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/hello/Boot01HelloApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/example/hello/Boot01HelloApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/gura/spring04/HomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/gura/spring04/cafe/controller/CafeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/gura/spring04/cafe/dao/CafeCommentDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/gura/spring04/cafe/dao/CafeCommentDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/gura/spring04/cafe/dao/CafeDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/gura/spring04/cafe/dao/CafeDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/gura/spring04/cafe/dto/CafeCommentDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/gura/spring04/cafe/dto/CafeDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/gura/spring04/cafe/service/CafeService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/gura/spring04/cafe/service/CafeServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/gura/spring04/exception/ExceptionController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/gura/spring04/exception/NotDeleteException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/gura/spring04/file/controller/FileController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/gura/spring04/file/dao/FileDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/gura/spring04/file/dao/FileDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/gura/spring04/file/dto/FileDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/gura/spring04/file/service/FileService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/gura/spring04/file/service/FileServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/gura/spring04/file/view/FileDownView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/gura/spring04/gallery/controller/GalleryController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/gura/spring04/gallery/dao/GalleryDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/gura/spring04/gallery/dao/GalleryDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/gura/spring04/gallery/dto/GalleryDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/gura/spring04/gallery/service/GalleryService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/gura/spring04/gallery/service/GalleryServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/gura/spring04/interceptor/LoginInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/gura/spring04/users/controller/UsersController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/gura/spring04/users/dao/UsersDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/gura/spring04/users/dao/UsersDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/gura/spring04/users/dto/UsersDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/gura/spring04/users/service/UsersService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/com/gura/spring04/users/service/UsersServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/log4j.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/mapper/CafeCommentMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/mapper/CafeMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/mapper/FileMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/mapper/GalleryMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/mapper/UsersMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/org/example/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/classes/test/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/m2e-wtp/web-resources/META-INF/maven/com.myboard/spring00/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/m2e-wtp/web-resources/META-INF/maven/com.myboard/spring00/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring04_Final/target/test-classes/log4j.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2SMXZpifKYLuLWsed4BeNyWM1K6" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/acorn230405/IntelliJ_SpringBoot/Boot01_Hello2",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/juyeonjin/IntelliJ_SpringBoot&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
@@ -30,6 +321,8 @@
       <option name="presentableId" value="Default" />
       <updated>1688957481300</updated>
       <workItem from="1688957482525" duration="9000" />
+      <workItem from="1690447270181" duration="103000" />
+      <workItem from="1690447395413" duration="17000" />
     </task>
     <servers />
   </component>
