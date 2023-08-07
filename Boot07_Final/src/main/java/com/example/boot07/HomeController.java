@@ -14,8 +14,8 @@ public class HomeController {
     public String home(HttpServletRequest request) {
         List<String> noticeList = new ArrayList<>();
         noticeList.add("Spring Boot 시작");
-        noticeList.add("집에");
-        noticeList.add("가고 싶다");
+        noticeList.add("ㅎㅏ이요");
+        noticeList.add("빠이팅");
 
         request.setAttribute("noticeList", noticeList);
 

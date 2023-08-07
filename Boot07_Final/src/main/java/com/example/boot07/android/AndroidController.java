@@ -14,7 +14,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-// 컨트롤러 메소드에서 리턴하는 데이터가 바로 클라이언트에게 응답되는 컨트롤러
+// 컨트롤러 메소드에서 리턴하는 데이터가바로 클라이언트에게 응답되는 컨트롤러
 @RestController
 public class AndroidController {
 
